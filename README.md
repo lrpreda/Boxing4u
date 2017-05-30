@@ -14,3 +14,5 @@ for api
 mvn spring-boot:run
 
 /rest/boxing/{labelOpt}/{fruitOpt}
+
+Return the correct label sequence.
